@@ -13,3 +13,4 @@ Esto es una guia para los alumnos de __NodeJS Digitalers__ que cursan los dias _
 ## Tabla de contenidos
 
 * [Base de datos](./docs/database.md)
+* [Tipos de Datos](./docs/types.md)
