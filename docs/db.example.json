@@ -1,0 +1,32 @@
+[
+    {   
+        "nombre": "symba",
+        "color": "amarillo",
+        "categoria": "felino"
+    },
+    {   
+        "nombre": "kimba",
+        "color": "blanco", 
+        "categoria": "felino"
+    },
+    {   
+        "nombre": "sonic",
+        "color": "azul", 
+        "categoria": "roedor"  
+    },
+    {   
+        "nombre": "lassie",
+        "color": "marron", 
+        "categoria": "canino"  
+    },
+    {   
+        "nombre": "clifford",
+        "color": "rojo", 
+        "categoria": "canino" 
+    },
+    {   
+        "nombre": "garfield",
+        "color": "naranja",
+        "categoria": "felino"
+    }
+]
