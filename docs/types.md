@@ -36,3 +36,5 @@
 |-|-|-|
 | __Geospatial__ | Datos geoespaciales. | `{ "ubicacion": { "type": "Point", "coordinates": [100.0, 0.0] } }` |
 | __Decimal__ | Representación de números decimales de alta precisión. | `{ "precio": NumberDecimal("19.99") }` |
+
+[volver](../readme.md)

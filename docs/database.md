@@ -64,7 +64,7 @@ mongoDB es un motor de bases de datos orientado a documentos y si lo comparamos 
 * Conexion
     ```sh
     # local = PROTO://HOST:PORT/DATABASE
-    mongosh mongodb://localhost:27017/fpescar
+    mongosh mongodb://localhost:27017/digitalers
     # remote
     mongosh mongo+srv://user:password@host/database
     ```

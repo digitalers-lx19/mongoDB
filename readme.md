@@ -14,3 +14,4 @@ Esto es una guia para los alumnos de __NodeJS Digitalers__ que cursan los dias _
 
 * [Base de datos](./docs/database.md)
 * [Tipos de Datos](./docs/types.md)
+* [Metodos CRUD](./docs/crud.md)
